@@ -1,3 +1,4 @@
+# remember to pip3 install flask==2.2.5 (newest version throws an error)
 import os
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
